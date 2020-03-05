@@ -1,0 +1,47 @@
+
+.climaDataCont{
+    background: rgba(200, 200, 200, 0.5);
+    height: 100px;
+    line-height: 100px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+
+.climaTemperaturaCont{
+    width: 60%;
+    display: inline-block;
+
+}
+
+.temperatura{
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 20px;
+    color: #333;
+}   
+
+.cIcon{
+    color: orangered;
+}
+.temperaturaType{
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 20px;
+    
+}
+
+.extraInfoClimaCont{
+     
+    width: 40%;
+    display: inline-block;
+    line-height: 30px;
+    text-align: left;
+}
+
+.extraInfoText{
+    display: block;
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,24 @@
+[0228/005205.764:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005205.766:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005205.766:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005205.766:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0228/005207.219:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005207.219:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005207.219:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005207.220:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0228/005347.384:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005347.384:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005347.384:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005347.384:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0228/005444.036:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005444.036:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005444.036:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005444.036:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0228/005444.893:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005444.893:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005444.893:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005444.893:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0228/005446.036:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0228/005446.036:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0228/005446.036:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0228/005446.036:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
